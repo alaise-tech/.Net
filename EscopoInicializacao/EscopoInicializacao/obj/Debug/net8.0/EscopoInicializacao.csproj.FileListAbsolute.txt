@@ -1,0 +1,14 @@
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.exe
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.deps.json
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.runtimeconfig.json
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\bin\Debug\net8.0\EscopoInicializacao.pdb
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.AssemblyInfoInputs.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.AssemblyInfo.cs
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\refint\EscopoInicializacao.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.pdb
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\EscopoInicializacao.genruntimeconfig.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EscopoInicializacao\EscopoInicializacao\obj\Debug\net8.0\ref\EscopoInicializacao.dll

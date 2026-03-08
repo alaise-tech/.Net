@@ -1,0 +1,14 @@
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\bin\Debug\net8.0\Debugging.exe
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\bin\Debug\net8.0\Debugging.deps.json
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\bin\Debug\net8.0\Debugging.runtimeconfig.json
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\bin\Debug\net8.0\Debugging.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\bin\Debug\net8.0\Debugging.pdb
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfo.cs
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\Debugging.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\refint\Debugging.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\Debugging.pdb
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\Debugging.genruntimeconfig.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\Debugging\Debugging\obj\Debug\net8.0\ref\Debugging.dll

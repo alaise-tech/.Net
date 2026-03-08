@@ -1,0 +1,14 @@
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.exe
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.deps.json
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.runtimeconfig.json
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\bin\Debug\net8.0\EntradadeDados.pdb
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.AssemblyInfoInputs.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.AssemblyInfo.cs
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.csproj.CoreCompileInputs.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\refint\EntradadeDados.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.pdb
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\EntradadeDados.genruntimeconfig.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\C#\EntradadeDados\EntradadeDados\obj\Debug\net8.0\ref\EntradadeDados.dll

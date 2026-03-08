@@ -1,0 +1,14 @@
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.exe
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.deps.json
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.pdb
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\refint\OperadoresAtribuicao.dll
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.pdb
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\Alaise Caetano\OneDrive\Desktop\Cursos\Udemy\Curso C#\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\ref\OperadoresAtribuicao.dll
