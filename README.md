@@ -1,4 +1,3 @@
-# Curso de C# (Nelio Alves)
 
 Atualizado conforme avanço no curso.
 
